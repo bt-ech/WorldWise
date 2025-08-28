@@ -25,6 +25,17 @@ Styling: CSS / Tailwind (update if you’re using something else)
 
 Data Handling: Local JSON / (add API if applicable)
 
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](./screenshots/Home.png)
+
+### 🌍 City Details Page
+![City Details](./screenshots/Citydetails.png)
+
+### ➕ About
+![About](./screenshots/about.png)
+
 🚀 Getting Started
 
 Follow these steps to run the project locally:
