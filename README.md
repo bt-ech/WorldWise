@@ -36,6 +36,9 @@ Data Handling: Local JSON / (add API if applicable)
 ### ➕ About
 ![About](./screenshots/about.png)
 
+### 🔧 This project is still in progress! I’ll be adding screenshots as I build new features.  
+Stay tuned for updates!
+
 🚀 Getting Started
 
 Follow these steps to run the project locally:
